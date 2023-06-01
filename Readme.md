@@ -15,3 +15,15 @@
 	c) The "m_connectivity_v1.m" program ensure m-connectivity by removing common pixels.
 	
 	d) The "spiral.m" program implements efficient contour tracing rather than tradtional raster scan method.
+
+5. The detailed output and corresponding program for various samples for Interpolation of contours and lines are available at "DEM\interpolated pts\Final Interpolation"
+
+6. The detailed output and corresponding program for super-imposing original inputs and corresponding Interpolated points are available at "DEM\interpolated pts\Final Interpolation\SuperImpose".
+
+7. The detailed output and corresponding program for extraction of various morphological operators (unsupervised method) for traversal is available  "\DEM\mor_op_direction".
+
+
+
+
+
+

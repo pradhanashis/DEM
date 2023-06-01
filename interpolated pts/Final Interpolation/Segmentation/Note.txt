@@ -1,0 +1,3 @@
+This code Segment Lines and Enclosure and save output in 2 files. One file represents Only Lines. Second file represents Only Lines.
+
+For Execution: execute 

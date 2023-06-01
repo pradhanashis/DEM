@@ -1,0 +1,3 @@
+1. Instead of Operator identity, store directly, angle
+2. While storing angle as per constraint, use, Centroid of Image while implementing angle for lines.
+   and Centroid of ONLY Contours (Significant pix) while implementing angle for contours.
